@@ -1,0 +1,8 @@
+ctrl + shift + p -> Cmake: Configure
+cmake --build ./build
+
+Or
+
+cd ./build
+cmake ../
+cmake --build .

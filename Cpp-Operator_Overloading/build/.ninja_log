@@ -1,0 +1,4 @@
+# ninja log v6
+6	2548	7489508079649989	CMakeFiles/OperatorOverloading.dir/main.cpp.obj	91790a1e4fccdb47
+12	2599	7489508079700073	CMakeFiles/OperatorOverloading.dir/MyString.cpp.obj	949e267d4b6e157
+2600	2813	7489508105585832	OperatorOverloading.exe	899996f14e1b445a
