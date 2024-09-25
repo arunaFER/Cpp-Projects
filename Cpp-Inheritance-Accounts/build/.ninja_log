@@ -1,0 +1,8 @@
+# ninja log v6
+31	926	7489513672080714	CMakeFiles/Inheritance.dir/TrustAccount.cpp.obj	3a0214b416af3106
+11	1026	7489513671880680	CMakeFiles/Inheritance.dir/Account.cpp.obj	3631365f18d25c21
+19	1027	7489513671950687	CMakeFiles/Inheritance.dir/SavingsAccount.cpp.obj	3668b04542368b6
+24	1031	7489513672010693	CMakeFiles/Inheritance.dir/CheckingAccount.cpp.obj	336eb90066b9bee3
+47	1214	7489513672260925	CMakeFiles/Inheritance.dir/AccountUtil.cpp.obj	4e744eb4ca3ee560
+6	1537	7489513671830577	CMakeFiles/Inheritance.dir/main.cpp.obj	ba6d5bc877cba3f8
+1537	1710	7489513687140735	Inheritance.exe	310727e056329ae4
