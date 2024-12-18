@@ -53,7 +53,21 @@
     "variant": "cpp",
     "cstring": "cpp",
     "iomanip": "cpp",
-    "sstream": "cpp"
+    "sstream": "cpp",
+    "ios": "cpp",
+    "list": "cpp",
+    "unordered_set": "cpp",
+    "xfacet": "cpp",
+    "xhash": "cpp",
+    "xiosbase": "cpp",
+    "xlocale": "cpp",
+    "xlocinfo": "cpp",
+    "xlocnum": "cpp",
+    "xmemory": "cpp",
+    "xstddef": "cpp",
+    "xstring": "cpp",
+    "xtr1common": "cpp",
+    "xutility": "cpp"
   },
   "cmake.sourceDirectory": "D:/NinthChallenge"
 }
